@@ -1,0 +1,19 @@
+== This is the graph benchmark repo ==
+
+--------------------------------------------------------------------------------------------------
+
+Code performs Graph Update(insertions), BFS traversals for randomly selected 1o nodes, Memory Usage
+
+Use RMATGraphGenerator.java present in titan-commons to generate sample data sets
+
+Test each database with different data sets.
+
+Test Results for comparing Neo4j, OrientDb, Titan databases:
+
+ -Performed test on 5 sample data files that provided in /SampleGraphFiles folder
+
+ -Output folder contains the results for 3 databases
+
+ -Reports folder contains the comparisons for 3 databases
+
+

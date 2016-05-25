@@ -1,0 +1,20 @@
+Performance Evaluation For Graph File: C:\Users\Manohar\Desktop\AOS\GraphFiles\600v10Ke
+-------------------------------------------
+Graph Update
+----------------
+The total time taken for Graph Update is 851 ms
+Memory used to store the edges is 25807 KB
+
+BFS Search
+----------------
+No of nodes in path of BFS Traverse for vertex v[4096] is 560
+No of nodes in path of BFS Traverse for vertex v[8192] is 596
+No of nodes in path of BFS Traverse for vertex v[12288] is 597
+No of nodes in path of BFS Traverse for vertex v[16384] is 597
+No of nodes in path of BFS Traverse for vertex v[20480] is 597
+No of nodes in path of BFS Traverse for vertex v[24576] is 597
+No of nodes in path of BFS Traverse for vertex v[28672] is 597
+No of nodes in path of BFS Traverse for vertex v[32768] is 597
+No of nodes in path of BFS Traverse for vertex v[36864] is 597
+No of nodes in path of BFS Traverse for vertex v[40960] is 594
+Avg time for BFS search for 10 randomly selected nodes is 275
